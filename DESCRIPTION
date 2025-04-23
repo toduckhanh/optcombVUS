@@ -1,0 +1,17 @@
+Package: optcombVUS
+Type: Package
+Title: Finding the optimal linear combination of multiple diagnostic test that maximum VUS
+Version: 1.0-2
+Date: 2019-04-17
+Author: Duc-Khanh To
+Maintainer: Duc-Khanh To <toduc@stat.unipd.it>
+Description: Finding the optimal linear combination of multiple diagnostic test that maximum VUS
+License: GPL (>= 2)
+Depends: R(>= 2.15.0), stats, utils
+Imports: Rcpp (>= 0.12.15)
+LinkingTo: Rcpp
+LazyLoad: yes
+LazyData: TRUE
+ByteCompile: yes
+Encoding: UTF-8
+RoxygenNote: 6.1.1
